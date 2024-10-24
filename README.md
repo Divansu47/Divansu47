@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Divansu47
+- 👋 Hi, I’m DIVANSU MISHRA
 - 👀 I’m interested in Machine learning
 - 🌱 I’m currently learning DSA , MERN Stack
 - 💞️ I’m looking to collaborate on Web devlopment and Machine learning Projects
